@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <div
       id="contact"
-      className="pt-32 container text-purple-400 font-semibold text-3xl"
+      className="pt-32 container text-purple-400 font-semibold"
       data-aos="fade-left"
     >
       Contact
@@ -20,10 +20,10 @@ const Contact = () => {
           </h2>
           <p className="text-purple-400 text-[18px] pt-1" data-aos="fade-up">
             Whether you have a project in mind, want to collaborate, or simply
-            have a question, feel free to reach out. Im always open to
+            have a question, feel free to reach out. I'm always open to
             discussing new ideas, or providing guidance
             on any tech-related challenges you might be facing. Drop me a
-            message, and lets create something amazing together!
+            message, and let's create something amazing together!
           </p>
           <div
             className=" flex gap-3 items-center text-white"
